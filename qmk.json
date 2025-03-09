@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["crkbd/rev4_1/standard", "tombell"]
+        ["crkbd/rev4_1/standard", "tombell"],
+        ["dztech/dz60rgb_ansi/v2_1", "tombell"]
     ]
 }
